@@ -4,6 +4,9 @@ h1{
     text-align: center;
 }
 
+h1:hover{
+  color: darkorange;
+}
 
 body #bob{
   color: rgb(124, 124, 153);
