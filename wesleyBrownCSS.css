@@ -7,7 +7,7 @@ h1{
 footer > a[href*='github']{
   max-width: 5%;
   height: auto;
-  display: flex;
+  display: block;
   margin: auto;
 }
 
