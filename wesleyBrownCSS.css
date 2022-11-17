@@ -23,12 +23,16 @@ body #bob{
 
 footer{
   color: rgb(124, 124, 153);
-  font-size: x-large;
+  font-size: large;
   font-family: monospace;
   text-align: center;
   display: block;
+}
 
-
+#launch{
+  color: rgba(54, 60, 112, 0.918);
+  font-family: monospace;
+  font-size: larger;
 }
 
 img{
