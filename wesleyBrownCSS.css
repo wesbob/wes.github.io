@@ -1,0 +1,32 @@
+h1{
+    font-family: monospace;
+    color: rgba(54, 60, 112, 0.918);
+    text-align: center;
+}
+
+
+body #bob{
+  color: rgb(124, 124, 153);
+  font-family: monospace;
+  text-align: center;
+  margin-top: 7px;
+
+}
+
+
+footer{
+  color: rgb(124, 124, 153);
+  font-size: x-large;
+  font-family: monospace;
+  text-align: center;
+  display: block;
+
+
+}
+
+img{
+  max-width: 30%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
